@@ -16,3 +16,5 @@ fido = Dog.new
 fido.came = "Fido"
 
 puts fido.name
+
+fido.bark
