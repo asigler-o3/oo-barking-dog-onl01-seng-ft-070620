@@ -11,3 +11,8 @@ class Dog
     puts "Woof!"
   end
 end
+
+fido = Dog.new
+fido.came = "Fido"
+
+puts fido.name
